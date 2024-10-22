@@ -1,0 +1,16 @@
+#product-detail-block {
+    min-height: calc(100vh - 100px);
+}
+
+#product-name {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+#quantity-input {
+    padding: 100px;
+}
+
+#add-to-cart-btn {
+    padding: 10px 15px;
+}

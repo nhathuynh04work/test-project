@@ -1,0 +1,96 @@
+body {
+	font-family: "Montserrat", sans-serif !important;
+}
+
+header {
+	top: 0;
+}
+
+.header-logo {
+	height: 24px;
+}
+
+#navbarSupportedContent {
+    z-index: 5;
+}
+
+#navbarSupportedContent a:hover {
+	text-decoration: underline;
+	text-underline-offset: 4px;
+}
+
+#button-group button {
+	margin-left: 10px;
+}
+
+#display-cart-button {
+	position: relative;
+}
+
+#cart-quantity {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	position: absolute;
+	top: 2px;
+	right: 5px;
+	font-size: 10px;
+	border-radius: 50%;
+	background-color: #f95454;
+}
+
+#sign-in-btn,
+#sign-up-btn {
+	border: 1px solid black;
+    margin-left: 10px;
+    text-decoration: none !important;
+}
+
+#sign-up-btn {
+	color: white;
+	background-color: black;
+}
+
+#sign-in-btn:hover,
+#sign-up-btn:hover {
+	border-radius: 0;
+}
+
+.offcanvas-title {
+	font-size: 20px;
+}
+
+.decrease-button {
+	border-top-right-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+
+.increase-button {
+	border-top-left-radius: 0 !important;
+	border-bottom-left-radius: 0 !important;
+}
+
+.delete-button {
+	color: #f95454;
+	padding: 10px;
+	border: 0;
+	background: white;
+}
+
+.delete-button:hover {
+	cursor: pointer;
+}
+
+#total-cost-block {
+	width: 100%;
+	position: sticky;
+	bottom: 0;
+}
+
+@media screen and (min-width: 992px) {
+	.offcanvas {
+		width: 40vw !important;
+	}
+}

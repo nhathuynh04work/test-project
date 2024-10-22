@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Concrete Jungle",
+		"author": "Noah Cunnington",
+		"thumbnail": "sp1.jpg",
+		"width": 2800,
+		"height": 3200,
+		"material": "Canvas",
+		"price": 250000
+	},
+	{
+		"id": 2,
+		"name": "Eggy Space",
+		"author": "Gnuoc Yud",
+		"thumbnail": "sp2.jpg",
+		"width": 3200,
+		"height": 2800,
+		"material": "Canvas",
+		"price": 300000
+	},
+	{
+		"id": 3,
+		"name": "Ocean Mania",
+		"author": "Leonardo Da Vinci",
+		"thumbnail": "sp3.jpg",
+		"width": 2000,
+		"height": 1200,
+		"material": "Canvas",
+		"price": 450000
+	},
+	{
+		"id": 4,
+		"name": "House by the Clouds",
+		"author": "Noah Cunnington",
+		"thumbnail": "sp4.jpg",
+		"width": 2800,
+		"height": 2800,
+		"material": "Canvas",
+		"price": 500000
+	},
+	{
+		"id": 5,
+		"name": "Britpop",
+		"author": "A.G.Cook",
+		"thumbnail": "sp5.jpg",
+		"width": 3200,
+		"height": 2400,
+		"material": "Canvas",
+		"price": 250000
+	},
+	{
+		"id": 6,
+		"name": "Deeper Well",
+		"author": "Kacey Musgraves",
+		"thumbnail": "sp6.jpg",
+		"width": 3200,
+		"height": 3200,
+		"material": "Canvas",
+		"price": 350000
+	},
+	{
+		"id": 7,
+		"name": "Pisces",
+		"author": "Wang Zi Qi",
+		"thumbnail": "sp7.jpg",
+		"width": 4000,
+		"height": 2800,
+		"material": "Canvas",
+		"price": 400000
+	},
+	{
+		"id": 8,
+		"name": "Venis",
+		"author": "Lana Del Rey",
+		"thumbnail": "sp8.jpg",
+		"width": 4000,
+		"height": 2800,
+		"material": "Canvas",
+		"price": 600000
+	},
+	{
+		"id": 9,
+		"name": "Endless Land",
+		"author": "Noah Cunnington",
+		"thumbnail": "sp9.jpg",
+		"width": 3200,
+		"height": 2800,
+		"material": "Canvas",
+		"price": 250000
+	},
+	{
+		"id": 10,
+		"name": "Oasis",
+		"author": "Bad Bunny",
+		"thumbnail": "sp10.jpg",
+		"width": 6000,
+		"height": 4000,
+		"material": "Canvas",
+		"price": 300000
+	},
+	{
+		"id": 11,
+		"name": "We have all the time in the world",
+		"author": "Gnuoc Yud",
+		"thumbnail": "sp11.jpg",
+		"width": 2800,
+		"height": 4000,
+		"material": "Canvas",
+		"price": 700000
+	},
+	{
+		"id": 12,
+		"name": "Taco Truck",
+		"author": "Taylor Swift",
+		"thumbnail": "sp12.jpg",
+		"width": 1000,
+		"height": 2000,
+		"material": "Canvas",
+		"price": 900000
+	}
+]
